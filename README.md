@@ -16,7 +16,7 @@ Python units
 * Variable
 * Condition
 
-Pyton units
+Python units
 1. Seq extecution
 1. Variable
 1. Condition
